@@ -3,7 +3,7 @@ public class DebugBox
    private int width;
    private int length;
    private int height;
-   private FixDebugBox()
+   public int FixDebugBox()
    {
       length = 1;
       width = 1;
